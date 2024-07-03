@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-Adidas-Product-Sales
-Product adidas analysis with python
+Repository ini berisi proyek Exploratory Data Analysis (EDA) yang dilakukan pada data penjualan produk Adidas dari tahun 2020-2021. Analisis ini difokuskan pada memahami total penjualan, keuntungan operasional, pengaruh musim terhadap penjualan, dan performa berdasarkan wilayah geografis. Tujuan proyek ini adalah untuk memberikan wawasan mendalam mengenai faktor-faktor yang mempengaruhi performa penjualan, serta mendukung pengambilan keputusan strategis untuk meningkatkan profitabilitas bisnis.
